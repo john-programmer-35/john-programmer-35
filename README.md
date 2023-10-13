@@ -1,3 +1,4 @@
+![logo](https://github.com/john-programmer-35/john-programmer-35/blob/main/john%20banner.png)
 <h1 align="center">Hi 👋, I'm John</h1>
 <h3 align="center">Python Full Stack Web Developer | Django | MySQL | GIT & GITHUB | HTML, CSS, Bootstrap, jQuery</h3>
 
