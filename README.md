@@ -3,6 +3,8 @@
 
 - 💬 Ask me about **Aspiring Full Stack Developer with a passion for building innovative web applications and a strong foundation in front-end and back-end development. My expertise includes using popular frameworks like Django to deliver scalable and high-performance solutions. Eager to leverage my technical skills and educational background to contribute effectively to a dynamic and collaborative development team. I am excited to learn and grow as a professional while delivering high- quality solutions that enhance user experiences and drive business success.**
 
+<img align="right" allt="coding" width="400" src="https://i.pinimg.com/originals/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.gif">
+
 - 📫 How to reach me **johnprogrammer35@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
